@@ -12,7 +12,7 @@ You agree that you use this software at your own risk.
 
 Install
 ```bash
-git clone https://github.com/techanvconsulting/Wordpresscan.git
+git clone https://github.com/techanv-bot/Wordpresscan.git
 cd Wordpresscan
 ```
 
@@ -90,7 +90,7 @@ python wordpresscan.py -u "http://127.0.0.1/wordpress/" --fuzz
 ```
 
 ## Output example from a test environment
-![alt tag](https://github.com/techanvconsulting/Wordpresscan/blob/master/screens/Version%204.4.7.png?raw=true)
+![alt tag](https://github.com/techanv-bot/Wordpresscan/blob/master/screens/Version%204.4.7.png?raw=true)
 
 ## Deploy a test environment
 ```bash
